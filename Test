@@ -1,0 +1,98 @@
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="static/css/style.css" rel="stylesheet">
+    <title>
+      Conor Knowles
+    </title>
+    <meta name="viewport" content=
+    "width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>
+      who am i?
+    </h1>
+    <p>
+      A final year student at university college dublin, who enjoys whitewater kayaking, judo, snowsports, tinkering with my arch linux setup, and chess. I believe strongly in the adoption of FOSS. I prefer simplicity and functionality over flash and bloat (proud member of the <a href="https://512kb.club">512kb club</a> with this site being 5.08kb uncompressed).
+    </p>
+    <h2>
+      things that interest me
+    </h2>
+    <p>
+      I post what i'm working on on <a href=
+      "https://github.com/conorhk">my github</a>.
+      I want to move to a FOSS platform over Microsoft's closed source product though, so this will change to Sourcehut or some other alternative soon when I get a chance to migrate.
+    </p>
+    <h4>
+      some of my projects i think are cool:
+    </h4>
+    <ul>
+      <li>my home server running on an old inspiron laptop in the
+      attic. runs as a recursive dns resolver, dns server,
+      wireguard peer, and file sync platform among other things.
+      </li>
+      <li>
+        <a href="https://github.com/ConorHK/dots">my arch dotfiles</a>
+        lot of time spent here!
+      </li>
+      <li>
+        <a href="https://github.com/ConorHK/vimrc">my neovim config</a>, almost exclusively written in lua. I use nvim for pretty much everything.
+      </li>
+      <li>
+        <a href="https://github.com/ConorHK/kyria">kyria split ergo
+        keyboard qmk firmware</a>, with some cool custom features such as capsword, x-case, and WPM graphs. Written in C.
+      </li>
+      <li>
+        <a href="https://github.com/ConorHK/robotics">some robotics
+        challenges</a>
+      </li>
+      <li>
+        <a href="https://github.com/ConorHK/AdventOfCode">advent of
+        code, written in python</a>
+      </li>
+    </ul>
+    <p>
+      You can get my cv <a href=
+      "https://conorknowles.com/cv.pdf">here</a>.
+    </p>
+    <h4>my work
+      experience as of 2022:
+    </h4>
+    <ul>
+      <li>systems development engineer @ aws
+      </li>
+      <li>java tutor @ academy of code
+      </li>
+      <li>kayak instructor
+      </li>
+      <li>public relations officer @ ucdcc
+      </li>
+      <li>web designer @ sonder web design (co-founded)
+      </li>
+    </ul>
+    <div class="footer">
+      <p>
+        <span class="colon">Copyright:</span>© 2022 Conor Knowles
+      </p>
+      <p>
+        <span class="colon">License:</span><a href=
+        "https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC
+        BY-SA 4.0</a>
+      </p>
+      <p>
+        <span class="colon">Email:</span><span class="code">me
+        &lt;at&gt; conorknowles &lt;dot&gt; com</span>
+      </p>
+      <p>
+        <span class="colon">PGP key:</span><span class="code">curl
+          <a href="https://conorknowles.com/pubkey.asc">https://conorknowles.com/pubkey.asc</a> | gpg --import</span>
+      </p>
+      <p>
+        <span class="colon">sha256sum:</span><span class=
+        "code">e8635a2926666dec57d9395d7e982551609c5529959086c745493f0e829e3a64</span>
+      </p>
+    </div>
+  </body>
+</html>
